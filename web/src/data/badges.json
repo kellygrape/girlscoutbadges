@@ -1,0 +1,53 @@
+[
+  {
+    "id": "eco-explorer",
+    "name": "Eco Explorer",
+    "image": "/badges/eco-explorer.svg",
+    "description": "Learned how to protect local habitats, reduce waste, and lead a neighborhood clean-up event.",
+    "awardDate": "2023-05-17",
+    "uniformPlacement": {
+      "area": "Front Sash",
+      "position": "Upper left, near the shoulder seam",
+      "coordinates": { "top": 22, "left": 46 }
+    },
+    "criteria": [
+      "Complete a nature observation journal for one week.",
+      "Organize or participate in a community clean-up day.",
+      "Teach fellow scouts about recycling best practices."
+    ]
+  },
+  {
+    "id": "first-aid",
+    "name": "First Aid Star",
+    "image": "/badges/first-aid.svg",
+    "description": "Demonstrated first aid basics, assembled a troop emergency kit, and practiced emergency communication.",
+    "awardDate": "2023-09-02",
+    "uniformPlacement": {
+      "area": "Front Vest",
+      "position": "Centered on the right pocket",
+      "coordinates": { "top": 45, "left": 60 }
+    },
+    "criteria": [
+      "Learn the steps to handle minor cuts, burns, and sprains.",
+      "Assemble a personal first aid kit with labeled supplies.",
+      "Role-play emergency calls with the troop leader."
+    ]
+  },
+  {
+    "id": "coding-quest",
+    "name": "Coding Quest",
+    "image": "/badges/coding-quest.svg",
+    "description": "Explored algorithms, built a simple website, and introduced coding to younger scouts.",
+    "awardDate": "2024-02-11",
+    "uniformPlacement": {
+      "area": "Back Sash",
+      "position": "Lower center near the hem",
+      "coordinates": { "top": 70, "left": 48 }
+    },
+    "criteria": [
+      "Complete a block-based programming challenge.",
+      "Create and share a mini-website about a favorite topic.",
+      "Host a 20-minute coding activity for Daisy scouts."
+    ]
+  }
+]
